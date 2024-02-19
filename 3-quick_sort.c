@@ -19,6 +19,7 @@ void swap_ints(int *a, int *b)
 /**
  * lomuto_partition - Order a subset of an array of integers
  * @array: array of ints
+ * @size: size
  * @left: starting index
  * @right: ending index
  *
